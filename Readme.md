@@ -4,6 +4,8 @@
 
 In the terminal, run:
 
+```bash
 npm run dev
+```
 
 ## Browse to the chat frontend at localhost:3000 and interact in a room with users.
