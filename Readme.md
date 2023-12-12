@@ -8,4 +8,4 @@ In the terminal, run:
 npm run dev
 ```
 
-## Browse to the chat frontend at localhost:3000 and interact in a room with users.
+## Browse to the chat frontend at [localhost:3000](http://localhost:3000) and interact in a room with users.
